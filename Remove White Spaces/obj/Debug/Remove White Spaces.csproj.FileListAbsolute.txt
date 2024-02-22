@@ -1,0 +1,15 @@
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\bin\Debug\Remove White Spaces.exe.config
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\bin\Debug\Remove White Spaces.exe.manifest
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\bin\Debug\Remove White Spaces.application
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\bin\Debug\Remove White Spaces.exe
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\bin\Debug\Remove White Spaces.pdb
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\obj\Debug\Remove White Spaces.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\obj\Debug\Remove_White_Spaces.Form1.resources
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\obj\Debug\Remove_White_Spaces.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\obj\Debug\Remove White Spaces.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\obj\Debug\Remove White Spaces.exe.manifest
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\obj\Debug\Remove White Spaces.application
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\obj\Debug\Remove White Spaces.exe
+c:\users\ali\documents\visual studio 2015\Projects\Remove White Spaces\Remove White Spaces\obj\Debug\Remove White Spaces.pdb
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Remove White Spaces\Remove White Spaces\obj\Debug\Remove White Spaces.csproj.AssemblyReference.cache
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\Remove White Spaces\Remove White Spaces\obj\Debug\Remove White Spaces.csproj.CoreCompileInputs.cache
